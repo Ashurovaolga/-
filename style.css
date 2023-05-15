@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+   background-color: rgb(40, 100, 153);
+}
+
+header img{
+    width: 130px;
+    height: 90px;
+}
+
+a{
+    font-size: 40px;
+    color:black;
+    background-color: orange;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+main h1{
+    text-align: center;
+}
+
+.img{
+    width:180px ;
+    height:180px ;
+}
+
+.i{
+    height: 180px;
+}
+
+.im{
+    width: 230px;
+    height: 180px;
+}
+h2{
+    color: red ;
+}
+
+ul{
+    list-style: url("/uploads/2021/01/Arrow%201_0_1611261359.svg");
+
+}
+
+
